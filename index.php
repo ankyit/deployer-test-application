@@ -1,3 +1,3 @@
 <?php
-  print "<center><h1 style="color:red;">it works!</h1></center>";
+  print "<center><h1>This is UAT branch</h1></center>";
 ?>
