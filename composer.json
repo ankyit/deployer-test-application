@@ -1,0 +1,12 @@
+{    "authors": [
+        {
+            "name": "Ankit Mehta",
+            "email": "hello@anky.it",
+            "homepage": "https://anky.it",
+            "role": "Developer"
+        }
+    ],
+    "require" : {
+        "php" : "^7.0"
+        }
+}
